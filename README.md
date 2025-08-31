@@ -4,7 +4,7 @@
 
 🚀 **AI Engineer | Machine Learning | Generative AI | Backend Systems**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvi-raj-chavan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvi-raj-chavan-719b2019b/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Prithvi-ra-j)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chavanprithvi45@gmail.com)  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Prithvi-ra-j)  
@@ -85,4 +85,5 @@ AI-driven insurance assistant with **document processing + semantic search + RAG
 💻 **Portfolio of Projects**: [github.com/Prithvi-ra-j](https://github.com/Prithvi-ra-j)  
 
 ---
+
 
