@@ -69,24 +69,6 @@ AI-driven insurance assistant with **document processing + semantic search + RAG
 
 ---
 
-## 🏆 GitHub Trophies  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Prithvi-ra-j&theme=onedark&margin-w=10&margin-h=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)  
-
----
-
-## 📊 Activity Graph  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prithvi-ra-j&theme=tokyo-night)  
-
----
-
-## 🐍 Contribution Snake  
-
-![Snake animation](https://github.com/Prithvi-ra-j/Prithvi-ra-j/blob/output/github-contribution-grid-snake.svg)  
-
----
-
 ## 🌟 Fun Facts  
 
 - 💡 I love blending AI with real-world applications  
@@ -103,3 +85,4 @@ AI-driven insurance assistant with **document processing + semantic search + RAG
 💻 **Portfolio of Projects**: [github.com/Prithvi-ra-j](https://github.com/Prithvi-ra-j)  
 
 ---
+
