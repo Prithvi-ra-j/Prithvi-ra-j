@@ -1,89 +1,83 @@
-# 👋 Hi, I'm Prithviraj Chavan  
+# Hey, I'm Prithviraj 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Builder;Open+Source+Contributor)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F700&lines=AI+Engineer;Production+LLM+Systems;RAG+%26+Agentic+Workflows;Building+things+that+actually+ship)](https://git.io/typing-svg)
 
-🚀 **AI Engineer | Machine Learning | Generative AI | Backend Systems**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvi-raj-chavan-719b2019b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Prithvi-ra-j)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chavanprithvi45@gmail.com)  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Prithvi-ra-j)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvi-raj-chavan-719b2019b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Prithvi-ra-j)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chavanprithvi45@gmail.com)
 
 ---
 
-## 💡 About Me  
+## About me
 
-I’m an **AI Engineer** passionate about building **intelligent systems** that deliver measurable business impact.  
-With hands-on experience in **machine learning, deep learning, LLMs, and scalable backend systems**, I love working at the intersection of **AI + software engineering**.  
+I'm an AI engineer who builds LLM systems in production — not just demos.
 
-- 🔭 Currently working as a **Decision Scientist Intern @ Mu Sigma**  
-- 🧠 Designing **LLM-powered applications** with **LangChain, LangGraph, and RAG**  
-- ⚡ Experienced in **end-to-end ML pipelines**, **FastAPI backends**, and **cloud deployment**  
-- 🎯 Passionate about **AI for automation, search, and real-world impact**  
+Currently at **Mu Sigma** as a Decision Scientist Intern, where I own end-to-end architecture on real systems used by real people daily. My main project is **Signals** — a real-time external intelligence layer that ingests live data and surfaces structured insights through a RAG pipeline I built and maintain.
+
+I care about systems that are actually robust: retrieval that doesn't hallucinate, agents that don't loop forever, backends that don't fall over. The gap between a notebook that works and production that works is where I spend most of my time.
+
+When I'm not doing that — I'm studying for AWS ML Associate, building side projects in GenAI, and occasionally losing money on crude oil options on MCX.
 
 ---
 
-## 🛠️ Tech Stack  
+## What I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
-## 📌 Featured Projects  
+## Projects
 
-### 🚀 [Commodity Price Prediction Platform](https://github.com/Prithvi-ra-j/Commodity-Price-Prediction-platform)  
-A **FastAPI-based app** for real-time commodity price forecasting.  
-- PySpark ETL on 20k+ records  
-- Automated daily analytics with APScheduler  
-- LSTM models for forecasting, deployed via REST APIs  
+### Signals — Real-time External Intelligence Layer *(@ Mu Sigma, production)*
+An internal platform that monitors live external signals and delivers structured, actionable intelligence to business analysts.
+- Built a RAG pipeline on top of live-ingested data — chunking, embedding, retrieval, reranking
+- Designed the LangGraph-based agent orchestration layer
+- FastAPI backend serving real analyst workflows daily
+- Stack: LangGraph · LangChain · FAISS · FastAPI · Python
 
-### 🤖 [InsureSense 360 – AI-Powered Insurance Platform](https://github.com/Prithvi-ra-j/insuresense)  
-AI-driven insurance assistant with **document processing + semantic search + RAG chatbot**.  
-- Built with **LangChain + FAISS/Chroma**  
-- FastAPI backend for **upload, search, chat** endpoints  
-- Supports **real-time policy analysis**  
+> *This is production, not a portfolio piece. It has real users.*
 
 ---
 
-## 🎓 Certifications  
-
-✔️ **Explore Generative AI with the Gemini API in Vertex AI** – Google Cloud (2025)  
-✔️ **Inspect Rich Documents with Gemini Multimodality and RAG** – Google Cloud (2025)  
-✔️ **Develop GenAI Apps with Gemini and Streamlit** – Google Cloud (2025)  
-✔️ **IBM Data Science** – Coursera (2024)  
-
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prithvi-ra-j&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvi-ra-j&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Prithvi-ra-j&theme=tokyonight)  
+### [InsureSense 360 — AI Insurance Assistant](https://github.com/Prithvi-ra-j/insuresense)
+Insurance document processing + semantic search + conversational policy analysis.
+- Upload any policy doc → instant semantic search + plain-English answers via RAG chatbot
+- Built with LangChain + FAISS/Chroma vector store
+- Handles messy real-world insurance docs that don't parse cleanly
 
 ---
 
-## 🌟 Fun Facts  
-
-- 💡 I love blending AI with real-world applications  
-- 📚 Currently exploring **multimodal LLMs**  
-- ☕ Big fan of chai + late-night coding  
-- 🎯 Motto: *“Turning data into decisions, and ideas into AI-driven products.”*  
-
----
-
-## 🌍 Let’s Connect  
-
-📩 **Email**: [chavanprithvi45@gmail.com](mailto:chavanprithvi45@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/prithvi-raj-chavan](https://www.linkedin.com/in/prithvi-raj-chavan)  
-💻 **Portfolio of Projects**: [github.com/Prithvi-ra-j](https://github.com/Prithvi-ra-j)  
+### [Commodity Price Prediction Platform](https://github.com/Prithvi-ra-j/Commodity-Price-Prediction-platform)
+End-to-end price forecasting for commodities with real-time updates.
+- PySpark ETL pipeline processing 20k+ records
+- LSTM forecasting models served via REST API
+- APScheduler for automated daily analytics refresh
+- Stack: Python · PySpark · FastAPI · APScheduler
 
 ---
 
+## Certifications
 
+- 🔄 **AWS ML Engineer Associate** — in progress *(targeting April 2026)*
+- **Generative AI with Gemini API** — Google Cloud, 2025
+- **IBM Data Science Professional Certificate** — Coursera, 2024
+
+---
+
+## GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prithvi-ra-j&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvi-ra-j&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=Prithvi-ra-j&theme=tokyonight)
+
+---
+
+## Let's talk
+
+📩 [chavanprithvi45@gmail.com](mailto:chavanprithvi45@gmail.com)
+· [LinkedIn](https://www.linkedin.com/in/prithvi-raj-chavan-719b2019b/)
