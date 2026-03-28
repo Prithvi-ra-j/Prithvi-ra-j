@@ -32,16 +32,6 @@ When I'm not doing that — I'm studying for AWS ML Associate, building side pro
 ---
 
 ## Projects
-
-### Signals — Real-time External Intelligence Layer *(@ Mu Sigma, production)*
-An internal platform that monitors live external signals and delivers structured, actionable intelligence to business analysts.
-- Built a RAG pipeline on top of live-ingested data — chunking, embedding, retrieval, reranking
-- Designed the LangGraph-based agent orchestration layer
-- FastAPI backend serving real analyst workflows daily
-- Stack: LangGraph · LangChain · FAISS · FastAPI · Python
-
-> *This is production, not a portfolio piece. It has real users.*
-
 ---
 
 ### [InsureSense 360 — AI Insurance Assistant](https://github.com/Prithvi-ra-j/insuresense)
