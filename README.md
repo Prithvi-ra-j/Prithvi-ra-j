@@ -8,7 +8,7 @@
 
 I build LLM systems that run in production — not demos that fall over under real load.
 
-At **Mu Sigma**, I designed and own an end-to-end LLM-powered enterprise search system: FAISS vector index over a large internal document corpus, citation-backed Q&A via FastAPI, streaming responses, PostgreSQL metadata, and zero-downtime Docker deployment with GitHub Actions CI/CD. Real users, real documents, daily use.
+At **Mu Sigma**, I'm part of a 5-person team that built and deployed an internal LLM-powered enterprise search system — currently live and in active daily use. My contributions were in the retrieval core: FAISS vector index design and configuration, chunking and embedding pipeline, and FastAPI serving layer. Also contributed to the LangChain pipeline and Docker deployment.
 
 The gap between a notebook that works and a system that works at 2 AM on a Friday — that's where I spend most of my time.
 
@@ -30,11 +30,11 @@ PySpark ingestion + FAISS IVF indexing designed for manufacturing facilities wit
 
 ## Production work (Mu Sigma)
 
-**Enterprise LLM Search System** — internal, not public  
-Document corpus → FAISS index → citation-backed Q&A → FastAPI streaming  
-Stack: `LangChain` `FAISS` `FastAPI` `PostgreSQL` `Docker` `GitHub Actions`
+**Enterprise LLM Search System** — internal, live in production  
+5-person team. My scope: FAISS index · chunking & embedding pipeline · FastAPI serving layer · partial LangChain pipeline · partial Docker deployment  
+Stack: `LangChain` `FAISS` `FastAPI` `PostgreSQL` `Docker`
 
-This is a production system with real users, not a side project. I own the architecture end-to-end.
+System is deployed and in active daily use internally. Not a POC — real users, real document corpus.
 
 ---
 
