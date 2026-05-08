@@ -1,6 +1,4 @@
-# Hey, I'm Prithviraj 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F700&lines=AI+Engineer;Production+LLM+Systems;RAG+%26+Agentic+Workflows;Building+things+that+actually+ship)](https://git.io/typing-svg)
+# Prithviraj Chavan — AI Systems Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvi-raj-chavan-719b2019b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Prithvi-ra-j)
@@ -8,66 +6,53 @@
 
 ---
 
-## About me
+I build LLM systems that run in production — not demos that fall over under real load.
 
-I'm an AI engineer who builds LLM systems in production — not just demos.
+At **Mu Sigma**, I designed and own an end-to-end LLM-powered enterprise search system: FAISS vector index over a large internal document corpus, citation-backed Q&A via FastAPI, streaming responses, PostgreSQL metadata, and zero-downtime Docker deployment with GitHub Actions CI/CD. Real users, real documents, daily use.
 
-Currently at **Mu Sigma** as a Decision Scientist Intern, where I own end-to-end architecture on real systems used by real people daily. My main project is **Signals** — a real-time external intelligence layer that ingests live data and surfaces structured insights through a RAG pipeline I built and maintain.
-
-I care about systems that are actually robust: retrieval that doesn't hallucinate, agents that don't loop forever, backends that don't fall over. The gap between a notebook that works and production that works is where I spend most of my time.
-
-When I'm not doing that — I'm studying for AWS ML Associate, building side projects in GenAI, and occasionally losing money on crude oil options on MCX.
+The gap between a notebook that works and a system that works at 2 AM on a Friday — that's where I spend most of my time.
 
 ---
 
-## What I work with
+## What I've built
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### [Munshi](https://github.com/Prithvi-ra-j/Munshi) — 11-agent async WhatsApp business assistant
+LangGraph multi-agent DAG with persistent per-user state via `AsyncSqliteSaver`. Handles task tracking, payment reminders, reply drafting, and voice notes in Hindi, English, and Hinglish. 65-case eval suite. 92% intent accuracy, 94% entity precision.
 
----
+`LangGraph` `LangSmith` `FastAPI` `ChromaDB` `APScheduler` `Docker` `Groq`
 
-## Projects
----
+### [Industrial RAG Ingestion Pipeline](https://github.com/Prithvi-ra-j/Industrial-RAG-Ingestion-Pipeline) — enterprise-grade RAG for air-gapped environments
+PySpark ingestion + FAISS IVF indexing designed for manufacturing facilities with no cloud access. 1,200 docs/min throughput, sub-45ms retrieval on 8GB RAM. OOM recovery with automatic batch reduction and checkpoint resumption.
 
-### [InsureSense 360 — AI Insurance Assistant](https://github.com/Prithvi-ra-j/insuresense)
-Insurance document processing + semantic search + conversational policy analysis.
-- Upload any policy doc → instant semantic search + plain-English answers via RAG chatbot
-- Built with LangChain + FAISS/Chroma vector store
-- Handles messy real-world insurance docs that don't parse cleanly
+`PySpark` `FAISS` `FastAPI` `sentence-transformers` `Docker`
 
 ---
 
-### [Commodity Price Prediction Platform](https://github.com/Prithvi-ra-j/Commodity-Price-Prediction-platform)
-End-to-end price forecasting for commodities with real-time updates.
-- PySpark ETL pipeline processing 20k+ records
-- LSTM forecasting models served via REST API
-- APScheduler for automated daily analytics refresh
-- Stack: Python · PySpark · FastAPI · APScheduler
+## Production work (Mu Sigma)
+
+**Enterprise LLM Search System** — internal, not public  
+Document corpus → FAISS index → citation-backed Q&A → FastAPI streaming  
+Stack: `LangChain` `FAISS` `FastAPI` `PostgreSQL` `Docker` `GitHub Actions`
+
+This is a production system with real users, not a side project. I own the architecture end-to-end.
 
 ---
 
-## Certifications
+## Stack
 
-- 🔄 **AWS ML Engineer Associate** — in progress *(targeting April 2026)*
-- **Generative AI with Gemini API** — Google Cloud, 2025
-- **IBM Data Science Professional Certificate** — Coursera, 2024
-
----
-
-## GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prithvi-ra-j&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvi-ra-j&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com/?user=Prithvi-ra-j&theme=tokyonight)
+**Orchestration**: LangGraph · LangChain · LangSmith  
+**Infra**: FastAPI · Docker · GitHub Actions · PostgreSQL · SQLite  
+**Retrieval**: FAISS · ChromaDB · sentence-transformers  
+**Data**: PySpark · Parquet  
+**LLMs**: Groq · OpenRouter · Claude API  
 
 ---
 
-## Let's talk
+## Currently
 
-📩 [chavanprithvi45@gmail.com](mailto:chavanprithvi45@gmail.com)
-· [LinkedIn](https://www.linkedin.com/in/prithvi-raj-chavan-719b2019b/)
+- Completing **AWS ML Engineer Associate** certification
+- Open to **AI/ML Engineering** and **Applied AI Systems** roles in Bengaluru
+
+---
+
+*All production metrics are real. All design decisions have documented tradeoffs. The eval suite is in the repo.*
